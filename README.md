@@ -11,7 +11,7 @@ Conventional cradles lack the ability to monitor and support infants continuousl
 - **ISBN Information**: Not available
 - **Publisher**: IEEE
 - **Conference Location**: Trichy, India
-- **Authors**: S. Thangam, M. Greeshma, M. Varun, N. Sanjana, J. J. J. Kumari
+- **Authors**: S. Thangam, M. Varun, N. Sanjana, J. Kumari
 
 ## Keywords
 - Technological innovation
