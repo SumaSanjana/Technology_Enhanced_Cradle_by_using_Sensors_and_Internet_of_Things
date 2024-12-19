@@ -8,7 +8,6 @@ Conventional cradles lack the ability to monitor and support infants continuousl
 - **Date of Conference**: 18-20 September 2024
 - **Date Added to IEEE Xplore**: 24 October 2024
 - **DOI**: [10.1109/ICOSEC61587.2024.10722336](https://doi.org/10.1109/ICOSEC61587.2024.10722336)
-- **ISBN Information**: Not available
 - **Publisher**: IEEE
 - **Conference Location**: Trichy, India
 - **Authors**: S. Thangam, M. Varun, N. Sanjana, J. Kumari
