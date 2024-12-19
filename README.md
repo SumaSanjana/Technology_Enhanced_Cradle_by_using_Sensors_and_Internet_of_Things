@@ -21,7 +21,7 @@ Conventional cradles lack the ability to monitor and support infants continuousl
 
 ## Authors
 - S. Thangam
-- M. Varun (You)
+- M. Varun
 - N. Sanjana
 - J. Kumari
 
